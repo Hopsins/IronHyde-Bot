@@ -26,7 +26,7 @@ python-telegram-bot library
 
 You can find the list of available commands with /help.
 
-[Click here to add me in your groups](https://telegram.me/Kakashi_TheBot?startgroup=add)
+[Click here to add me in your groups](https://telegram.me/JohnnySins_TheBot?startgroup=add)
 
 If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
 """
